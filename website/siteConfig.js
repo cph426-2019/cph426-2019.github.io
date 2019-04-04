@@ -9,7 +9,7 @@ const siteConfig = {
   organizationName: 'cph426-2019',
   headerLinks: [
     {doc: 'assignments', label: 'Assignments'},
-    {doc: 'lectures',    label: 'Lectures'},
+    {doc: 'schedule',    label: 'Schedule'},
     {doc: 'resources',   label: 'Resources'},
   ],
   users,
