@@ -9,12 +9,15 @@ sidebar_label: Schedule
 | Date            | Name                                                                               |
 |-----------------|------------------------------------------------------------------------------------|
 | Monday 5/20     | Arrival by 3pm - Settle in at Student Living Community                             |
-| Tuesday 5/21    | Morning: DIS Kick-off, Class, Welcome Dinner                                       |
-| Wednesday 5/22  | Class and City Bike Tour (Time TBD)                                                |
+| Tuesday 5/21    | DIS Program Kick-off (Morning), Class, Welcome Dinner                              |
+| Wednesday 5/22  | Class and Guided City Bike Tour                                                    |
 | Thursday 5/23   | Class                                                                              |
-| Friday 5/24     | Bus to Aarhus (Morning), Google Technical Talk and Site Visit, Stay in Aarhus      |
-| Saturday 5/25   | ARoS Modern Art Museum (Morning) - Return to Copenhagen (Afternoon)                |
-| Sunday 5/26     | Free Day - Optional Afternoon in Reffen                                            |
+| Friday 5/24     | Bus to [Aarhus] (Morning), Google Technical Talk and Site Visit, Sleep in Aarhus   |
+| Saturday 5/25   | [ARoS Modern Art Museum] (Morning) - Return to Copenhagen (Afternoon)              |
+| Sunday 5/26     | Free Day                                                                           |
+
+[Aarhus]: https://en.wikipedia.org/wiki/Aarhus
+[ARoS Modern Art Museum]: https://en.aros.dk/
 
 ## Week 2
 
@@ -22,11 +25,17 @@ sidebar_label: Schedule
 |-----------------|----------------------------------------------------------------------------------|
 | Monday 5/27     | Class                                                                            |
 | Tuesday 5/28    | Class                                                                            |
-| Wednesday 5/29  | Class and Danish Design Lecture, Studio Visits, Design Museum Tour               |
+| Wednesday 5/29  | Class and Danish Design Lecture, Studio Visits, [Design Museum] Tour             |
 | Thursday 5/30   | Class                                                                            |
-| Friday 5/31     | Morning Class - Afternoon Free - Optional Afternoon in Tivoli                    |
-| Saturday 6/1    | Optional Excursion to Dyrhavn                                                    |
-| Sunday 6/2      | Optional Excursion to find Trolls                                                |
+| Friday 5/31     | Morning Class - Afternoon Free - Optional Dinner in [Refshaleoen]                |
+| Saturday 6/1    | Free Day - Optional Excursion to [Dyrehave] and [Dyrehavsbakken]                 |
+| Sunday 6/2      | Free Day - Optional Excursion to find [Trolls]                                   |
+
+[Design Museum]: https://designmuseum.dk/en/
+[Refshaleoen]: https://www.nytimes.com/2019/03/29/travel/copenhagen-refshaleoen.html
+[Dyrehave]: https://en.wikipedia.org/wiki/J%C3%A6gersborg_Dyrehave
+[Dyrehavsbakken]: https://en.wikipedia.org/wiki/Dyrehavsbakken
+[Trolls]: https://thomasdambo.com/works/forgotten-giants/
 
 ## Week 3
 

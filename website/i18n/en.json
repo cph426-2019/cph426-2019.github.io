@@ -16,10 +16,6 @@
       "home": {
         "title": "home"
       },
-      "lectures": {
-        "title": "Lectures",
-        "sidebar_label": "Lectures"
-      },
       "resources": {
         "title": "Resources",
         "sidebar_label": "Resources"
@@ -28,11 +24,15 @@
         "title": "Sandbox Projects",
         "sidebar_label": "Sandbox Projects"
       },
+      "schedule": {
+        "title": "Schedule",
+        "sidebar_label": "Schedule"
+      },
       "syllabus-pandoc": {
         "title": "syllabus-pandoc"
       },
       "syllabus": {
-        "title": "Syllabus - COMP590 - 140",
+        "title": "Syllabus - COMP426",
         "sidebar_label": "Syllabus"
       },
       "vm-faq": {
@@ -42,7 +42,7 @@
     },
     "links": {
       "Assignments": "Assignments",
-      "Lectures": "Lectures",
+      "Schedule": "Schedule",
       "Resources": "Resources"
     },
     "categories": {
