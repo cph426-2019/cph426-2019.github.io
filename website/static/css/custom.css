@@ -1,0 +1,73 @@
+/* your custom css */
+
+.homeSplashFade {
+    background-image: url("/img/banner.png");
+    background-size: 100%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    height: 15%;
+}
+
+.homeSplashFade h2, .homeSplashFade h3 {
+    background: #20232a;
+    color: white;
+    padding: 0.3em;
+    margin: 15% auto;
+}
+
+.homeContainer .homeWrapper {
+    padding: 0;
+}
+
+.homeContent {
+    margin-top: 1em;
+}
+
+.index-page.container {
+    margin-bottom: 4em;
+}
+
+.fixedHeaderContainer {
+    background: #4B9CD3;
+}
+
+.navigationSlider .slidingNav ul {
+    background: #163f5b;
+}
+
+.navigationSlider .slidingNav ul li a:focus, .navigationSlider .slidingNav ul li a:hover, .navigationSlider .slidingNav ul li.siteNavItemActive a, .navigationSlider .slidingNav ul li.siteNavGroupActive a {
+    background: #276fa0;
+}
+
+.button, a {
+    color: #163f5b;
+}
+
+.button {
+    border: 1px solid #163f5b;
+}
+
+.button:hover {
+    background: #163f5b;
+}
+
+div.mainContainer a {
+    text-decoration: underline;
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
