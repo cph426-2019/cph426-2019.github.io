@@ -4,6 +4,13 @@ title: Schedule
 sidebar_label: Schedule
 ---
 
+## Predeparture
+
+| Date            | Name                                                            |
+|-----------------|-----------------------------------------------------------------|
+| Thursday 4/4    | Predeparture Meeting                                            |
+| Saturday 4/27   | [0 - Overview of Web Development](/docs/lec0-welcome.pdf)                          |
+
 ## Week 1
 
 | Date            | Name                                                                               |
