@@ -17,7 +17,7 @@ sidebar_label: Schedule
 |-----------------|-----------------------------------------------------------------------------------------------------------------------|
 | Monday 5/20     | Arrival by 5pm - Settle in at Student Living Community                                                                |
 | Tuesday 5/21    | DIS Opening Ceremony (8:30a-10a), Class (10:30a-12p, 1:30p-3:00p), Welcome Dinner at RizRaz 7:30p                     |
-| Wednesday 5/22  | Bike Tour - 8:30a at [Copenhagen Bicycles], Depart [Israels Plads] at 9:30a, class 1p-2:30p, 2:30p-4p                 |
+| Wednesday 5/22  | Bike Tour - 8:30a at [Copenhagen Bicycles]<br>Depart [Israels Plads] at 9:30a<br>Class 1p-2:30p, 2:30p-4p             |
 | Thursday 5/23   | Intro to Danish Culture by Catharina Rosendal 10a-11:30a, Aarhus Tour Orientation 11:30a-12p, class 1p-2:30p, 2:30p-4p|
 | Friday 5/24     | Bus to Aarhus, Google Technical Talk 1p-2:30p, Sleep in Aarhus                                                        |
 | Saturday 5/25   | [ARoS Modern Art Museum] - Return to Copenhagen (Afternoon)                                                           |

@@ -17,8 +17,8 @@
         "title": "home"
       },
       "predeparture-assignment": {
-        "title": "Prearrival",
-        "sidebar_label": "COMP426 - Prearrival Preparation"
+        "title": "Predeparture Assignment",
+        "sidebar_label": "COMP426 - Predeparture Assignment"
       },
       "resources": {
         "title": "Resources",
