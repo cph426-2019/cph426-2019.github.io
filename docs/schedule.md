@@ -15,14 +15,15 @@ sidebar_label: Schedule
 
 | Date            | Name                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Monday 5/20     | Arrival by 5pm - Settle in at Student Living Community                                                                |
-| Tuesday 5/21    | DIS Opening Ceremony (8:30a-10a), Class (10:30a-12p, 1:30p-3:00p), Welcome Dinner at RizRaz 7:30p                     |
-| Wednesday 5/22  | Bike Tour - 8:30a at [Copenhagen Bicycles]<br>Depart [Israels Plads] at 9:30a<br>Class 1p-2:30p, 2:30p-4p             |
-| Thursday 5/23   | Intro to Danish Culture by Catharina Rosendal 10a-11:30a, Aarhus Tour Orientation 11:30a-12p, class 1p-2:30p, 2:30p-4p|
-| Friday 5/24     | Bus to Aarhus, Google Technical Talk 1p-2:30p, Sleep in Aarhus                                                        |
+| Monday 5/20     | Before 5p - Arrive at Airport / Student Living Community<br>6p - Living Community Meeting                             |
+| Tuesday 5/21    | 8:30a-10a - DIS Opening Ceremony<br>10:30a-12p - Class<br>1:30p-3:00p - Class<br>7:30p - Welcome Dinner at [RizRaz]   |
+| Wednesday 5/22  | 8:30a - Pickup Bike at [Copenhagen Bicycles]<br>9:30a - Depart [Israels Plads]<br>1p-2:30p - Class<br>2:30p-4p Class  |
+| Thursday 5/23   | 10a-11:30a - Intro to Danish Culture by Catharina Rosendal<br>11:30a-12p - Aarhus Tour Orientation<br>1p-2:30p - Class<br> 2:30p-4p - Class |
+| Friday 5/24     | 8:30a - Bus to [Aarhus]<br>1p-2:30p - Google Technical Talk<br>Sleep in Central Aarhus                                |
 | Saturday 5/25   | [ARoS Modern Art Museum] - Return to Copenhagen (Afternoon)                                                           |
 | Sunday 5/26     | Free Day                                                                                                              |
 
+[RizRaz]: https://www.rizraz.dk/mad/
 [Copenhagen Bicycles]: https://www.google.dk/maps/place/Copenhagen+Bicycles+ApS/@55.6789204,12.5906762,17z/data=!3m1!4b1!4m5!3m4!1s0x4652533cc53a03c1:0x1676a21c46d4658!8m2!3d55.6789174!4d12.5928649?hl=en&shorturl=1
 [Israels Plads]: https://www.google.com/maps/place/Israels+Plads/@55.6829302,12.5688172,15z/data=!4m5!3m4!1s0x0:0x852f35f833ec206b!8m2!3d55.6829302!4d12.5688172
 [Aarhus]: https://en.wikipedia.org/wiki/Aarhus
