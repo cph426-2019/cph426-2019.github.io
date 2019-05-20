@@ -6,37 +6,39 @@ sidebar_label: Schedule
 
 ## Predeparture
 
-| Date            | Name                                                            |
-|-----------------|-----------------------------------------------------------------|
-| Thursday 4/4    | Predeparture Meeting                                            |
-| Saturday 4/27   | [0 - Overview of Web Development](/docs/lec0-welcome.pdf)                          |
+| Date            | Name                                                                               |
+|-----------------|------------------------------------------------------------------------------------|
+| Thursday 4/4    | Predeparture Meeting                                                               |
+| Saturday 4/27   | Class 12p-2p [0 - Overview of Web Development](/docs/lec0-welcome.pdf)             |
 
 ## Week 1
 
-| Date            | Name                                                                               |
-|-----------------|------------------------------------------------------------------------------------|
-| Monday 5/20     | Arrival by 3pm - Settle in at Student Living Community                             |
-| Tuesday 5/21    | DIS Program Kick-off (Morning), Class, Welcome Dinner                              |
-| Wednesday 5/22  | Class and Guided City Bike Tour                                                    |
-| Thursday 5/23   | Class                                                                              |
-| Friday 5/24     | Bus to [Aarhus] (Morning), Google Technical Talk and Site Visit, Sleep in Aarhus   |
-| Saturday 5/25   | [ARoS Modern Art Museum] (Morning) - Return to Copenhagen (Afternoon)              |
-| Sunday 5/26     | Free Day                                                                           |
+| Date            | Name                                                                                                                  |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------|
+| Monday 5/20     | Arrival by 5pm - Settle in at Student Living Community                                                                |
+| Tuesday 5/21    | DIS Opening Ceremony (8:30a-10a), Class (10:30a-12p, 1:30p-3:00p), Welcome Dinner at RizRaz 7:30p                     |
+| Wednesday 5/22  | Bike Tour - 8:30a at [Copenhagen Bicycles], Depart [Israels Plads] at 9:30a, class 1p-2:30p, 2:30p-4p                 |
+| Thursday 5/23   | Intro to Danish Culture by Catharina Rosendal 10a-11:30a, Aarhus Tour Orientation 11:30a-12p, class 1p-2:30p, 2:30p-4p|
+| Friday 5/24     | Bus to Aarhus, Google Technical Talk 1p-2:30p, Sleep in Aarhus                                                        |
+| Saturday 5/25   | [ARoS Modern Art Museum] - Return to Copenhagen (Afternoon)                                                           |
+| Sunday 5/26     | Free Day                                                                                                              |
 
+[Copenhagen Bicycles]: https://www.google.dk/maps/place/Copenhagen+Bicycles+ApS/@55.6789204,12.5906762,17z/data=!3m1!4b1!4m5!3m4!1s0x4652533cc53a03c1:0x1676a21c46d4658!8m2!3d55.6789174!4d12.5928649?hl=en&shorturl=1
+[Israels Plads]: https://www.google.com/maps/place/Israels+Plads/@55.6829302,12.5688172,15z/data=!4m5!3m4!1s0x0:0x852f35f833ec206b!8m2!3d55.6829302!4d12.5688172
 [Aarhus]: https://en.wikipedia.org/wiki/Aarhus
 [ARoS Modern Art Museum]: https://en.aros.dk/
 
 ## Week 2
 
-| Date            | Name                                                                             |
-|-----------------|----------------------------------------------------------------------------------|
-| Monday 5/27     | Class                                                                            |
-| Tuesday 5/28    | Class                                                                            |
-| Wednesday 5/29  | Class and Danish Design Lecture, Studio Visits, [Design Museum] Tour             |
-| Thursday 5/30   | Class                                                                            |
-| Friday 5/31     | Morning Class - Afternoon Free - Optional Dinner in [Refshaleoen]                |
-| Saturday 6/1    | Free Day - Optional Excursion to [Dyrehave] and [Dyrehavsbakken]                 |
-| Sunday 6/2      | Free Day - Optional Excursion to find [Trolls]                                   |
+| Date            | Name                                                                               |
+|-----------------|------------------------------------------------------------------------------------|
+| Monday 5/27     | Class                                                                              |
+| Tuesday 5/28    | Class                                                                              |
+| Wednesday 5/29  | Danish Design Lecture, Studio Visits, [Design Museum] Tour (9:30a-1p), Class (tbd) |
+| Thursday 5/30   | Class - Classroom TBD                                                              |
+| Friday 5/31     | Morning Class - Afternoon Free - Optional Dinner in [Refshaleoen]                  |
+| Saturday 6/1    | Free Day - Optional Excursion to [Dyrehave] and [Dyrehavsbakken]                   |
+| Sunday 6/2      | Free Day - Optional Excursion to find [Trolls]                                     |
 
 [Design Museum]: https://designmuseum.dk/en/
 [Refshaleoen]: https://www.nytimes.com/2019/03/29/travel/copenhagen-refshaleoen.html
@@ -49,7 +51,7 @@ sidebar_label: Schedule
 | Date            | Name                                                                             |
 |-----------------|----------------------------------------------------------------------------------|
 | Monday 6/3      | Class                                                                            |
-| Tuesday 6/4     | Class, Danish Family Dinner                                                      |
+| Tuesday 6/4     | Class, Danish Family Dinner 6p                                                   |
 | Wednesday 6/5   | Class                                                                            |
 | Thursday 6/6    | Class                                                                            |
 | Friday 6/7      | Class, Final Project Presentations, Final Exam - Group Farewell Dinner           |
