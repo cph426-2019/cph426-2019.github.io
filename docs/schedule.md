@@ -16,13 +16,14 @@ sidebar_label: Schedule
 | Date            | Name                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------|
 | Monday 5/20     | Before 5p - Arrive at Airport / Student Living Community<br>6p - Living Community Meeting                             |
-| Tuesday 5/21    | 8:30a-10a - DIS Opening Ceremony<br>10:30a-12p - Class<br>1:30p-3:00p - Class<br>7:30p - Welcome Dinner at [RizRaz]   |
+| Tuesday 5/21    | 8:30a-10a - DIS Opening Ceremony<br>10:30a-12p - [Web Design, JavaScript Intro]<br>1:00p-2:30p - Class<br>7:30p - Welcome Dinner at [RizRaz]   |
 | Wednesday 5/22  | 8:30a - Pickup Bike at [Copenhagen Bicycles]<br>9:30a - Depart [Israels Plads]<br>1p-2:30p - Class<br>2:30p-4p Class  |
 | Thursday 5/23   | 10a-11:30a - Intro to Danish Culture by Catharina Rosendal<br>11:30a-12p - Aarhus Tour Orientation<br>1p-2:30p - Class<br> 2:30p-4p - Class |
 | Friday 5/24     | 8:30a - Bus to [Aarhus]<br>1p-2:30p - Google Technical Talk<br>Sleep in Central Aarhus                                |
 | Saturday 5/25   | [ARoS Modern Art Museum] - Return to Copenhagen (Afternoon)                                                           |
 | Sunday 5/26     | Free Day                                                                                                              |
 
+[Web Design, JavaScript Intro]: /docs/lec1-design-javascript.pdf
 [RizRaz]: https://www.rizraz.dk/mad/
 [Copenhagen Bicycles]: https://www.google.dk/maps/place/Copenhagen+Bicycles+ApS/@55.6789204,12.5906762,17z/data=!3m1!4b1!4m5!3m4!1s0x4652533cc53a03c1:0x1676a21c46d4658!8m2!3d55.6789174!4d12.5928649?hl=en&shorturl=1
 [Israels Plads]: https://www.google.com/maps/place/Israels+Plads/@55.6829302,12.5688172,15z/data=!4m5!3m4!1s0x0:0x852f35f833ec206b!8m2!3d55.6829302!4d12.5688172
@@ -35,7 +36,7 @@ sidebar_label: Schedule
 |-----------------|------------------------------------------------------------------------------------|
 | Monday 5/27     | Class                                                                              |
 | Tuesday 5/28    | Class                                                                              |
-| Wednesday 5/29  | Danish Design Lecture, Studio Visits, [Design Museum] Tour (9:30a-1p), Class (tbd) |
+| Wednesday 5/29  | 9:30a-1p - Danish Design Lecture, Studio Visits, [Design Museum] Tour<br>tbd - Class |
 | Thursday 5/30   | Class - Classroom TBD                                                              |
 | Friday 5/31     | Morning Class - Afternoon Free - Optional Dinner in [Refshaleoen]                  |
 | Saturday 6/1    | Free Day - Optional Excursion to [Dyrehave] and [Dyrehavsbakken]                   |
