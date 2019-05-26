@@ -34,16 +34,17 @@ sidebar_label: Schedule
 
 ## Week 2
 
-| Date            | Name                                                                               |
-|-----------------|------------------------------------------------------------------------------------|
-| Monday 5/27     | Class                                                                              |
-| Tuesday 5/28    | Class                                                                              |
+| Date            | Name                                                                                 |
+|-----------------|--------------------------------------------------------------------------------------|
+| Monday 5/27     | Class 10a-11:30a, 12:30p-2p                                                          |
+| Tuesday 5/28    | Class 10a-11:30a, 12:30p-2p                                                          |
 | Wednesday 5/29  | 9:30a-1p - Danish Design Lecture, Studio Visits, [Design Museum] Tour<br>tbd - Class |
-| Thursday 5/30   | Class - Classroom TBD                                                              |
-| Friday 5/31     | Morning Class - Afternoon Free - Optional Dinner in [Refshaleoen]                  |
-| Saturday 6/1    | Free Day - Optional Excursion to [Dyrehave] and [Dyrehavsbakken]                   |
-| Sunday 6/2      | Free Day - Optional Excursion to find [Trolls]                                     |
+| Thursday 5/30   | Class 10a-11:30a, 12:30p-2p - Classroom TBD                                          |
+| Friday 5/31     | Early Morning Class 9-10:30a - Optional Train to [Malmö, Sweden]                     |
+| Saturday 6/1    | Free Day - Optional Excursion to find [Trolls] or head to [Dyrehave]/[Dyrehavsbakken]|
+| Sunday 6/2      | Free Day - Optional Excursion to [Refshaleoen]                                       |
 
+[Malmö, Sweden]: https://en.wikipedia.org/wiki/Malm%C3%B6
 [Design Museum]: https://designmuseum.dk/en/
 [Refshaleoen]: https://www.nytimes.com/2019/03/29/travel/copenhagen-refshaleoen.html
 [Dyrehave]: https://en.wikipedia.org/wiki/J%C3%A6gersborg_Dyrehave
