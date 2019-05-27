@@ -96,7 +96,7 @@ Currently your Netlify site serves assets directly out of your projects (former)
     # The command to run production build
     command = "npm run build"
     # Publish directory
-    publish = "dist/
+    publish = "dist/"
 ~~~
 
 Once you've added this, go ahead and make a commit and push to test your deploy settings on Netlify.
