@@ -16,6 +16,18 @@ On-line References:
     - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
     - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+- JavaScript and the DOM: [JavaScript.info](https://javascript.info)
+    - [JavaScript Fundamentals](https://javascript.info/first-steps)
+    - [Objects](https://javascript.info/object-basics)
+    - [Advanced Functions](https://javascript.info/advanced-functions)
+    - [Prototypes](https://javascript.info/prototypes)
+    - [Classes](https://javascript.info/classes)
+    - [Promises and Async](https://javascript.info/async)
+    - [The DOM](https://javascript.info/document)
+    - [Events (General)](https://javascript.info/events)
+    - [Events (Mouse/Keyboard/etc)](https://javascript.info/event-details)
+
+
 - Prearrival Online Book to Learn HTML and CSS: [Interneting is Hard](https://internetingishard.com/)
     - [Basic Web Pages](https://internetingishard.com/html-and-css/basic-web-pages/)
     - [Links and Images](https://internetingishard.com/html-and-css/links-and-images/)

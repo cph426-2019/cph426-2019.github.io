@@ -8,7 +8,7 @@ sidebar_label: Netlify Parcel Build
 
 Now that we're moving beyond plain-old HTML and CSS, we need to "build" our projects. In this tutorial we'll setup our project to a Node.js project that is built with [Parcel]. We'll no longer serve our assets directly on Netlify, we'll serve compiled assets.
 
-[Parcel]: 
+[Parcel]: https://parceljs.org/
 
 First, let's move our `public` directory to be our `src` directory. From the command line, try running the following _move_ command in `bash`:
 
