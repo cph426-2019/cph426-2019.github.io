@@ -1,0 +1,143 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Netlify Parcel Build · Copenhagen 426 - Summer 2019</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="&lt;h1&gt;&lt;a class=&quot;anchor&quot; aria-hidden=&quot;true&quot; id=&quot;setup-build&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#setup-build&quot; aria-hidden=&quot;true&quot; class=&quot;hash-link&quot;&gt;&lt;svg class=&quot;hash-link-icon&quot; aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Setup Build&lt;/h1&gt;
+"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Netlify Parcel Build · Copenhagen 426 - Summer 2019"/><meta property="og:type" content="website"/><meta property="og:url" content="https://cph426-2019.github.io/"/><meta property="og:description" content="&lt;h1&gt;&lt;a class=&quot;anchor&quot; aria-hidden=&quot;true&quot; id=&quot;setup-build&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#setup-build&quot; aria-hidden=&quot;true&quot; class=&quot;hash-link&quot;&gt;&lt;svg class=&quot;hash-link-icon&quot; aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Setup Build&lt;/h1&gt;
+"/><meta property="og:image" content="https://cph426-2019.github.io/img/old-well.png"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://cph426-2019.github.io/img/old-well.png"/><link rel="shortcut icon" href="/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/"><img class="logo" src="/img/old-well.svg" alt="Copenhagen 426 - Summer 2019"/><h2 class="headerTitleWithLogo">Copenhagen 426 - Summer 2019</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/docs/assignments" target="_self">Assignments</a></li><li class=""><a href="/docs/schedule" target="_self">Schedule</a></li><li class="siteNavGroupActive"><a href="/docs/resources" target="_self">Resources</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="container docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><i></i></div><h2><i>›</i><span>Resources</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Resources</h3><ul class=""><li class="navListItem"><a class="navItem" href="/docs/resources">Resources</a></li><li class="navListItem"><a class="navItem" href="/docs/syllabus">Syllabus</a></li><li class="navListItem"><a class="navItem" href="/docs/vm-faq">Virtual Machine - FAQ</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/docs/netlify-parcel">Netlify Parcel Build</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              const headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                if (event.target.tagName === 'A') {
+                  document.body.classList.remove('tocActive');
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle">Netlify Parcel Build</h1></header><article><div><span><h1><a class="anchor" aria-hidden="true" id="setup-build"></a><a href="#setup-build" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Setup Build</h1>
+<p>Now that we're moving beyond plain-old HTML and CSS, we need to &quot;build&quot; our projects. In this tutorial we'll setup our project to a Node.js project that is built with [Parcel]. We'll no longer serve our assets directly on Netlify, we'll serve compiled assets.</p>
+<p>[Parcel]:</p>
+<p>First, let's move our <code>public</code> directory to be our <code>src</code> directory. From the command line, try running the following <em>move</em> command in <code>bash</code>:</p>
+<pre><code class="hljs css language-bash">mv public src
+</code></pre>
+<p>In VSCode you should see your <code>public</code> folder renamed to <code>src</code>.</p>
+<h2><a class="anchor" aria-hidden="true" id="gitignore-ignore-generated-files"></a><a href="#gitignore-ignore-generated-files" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>.gitignore - Ignore generated files</h2>
+<p>In our <code>git</code> project repository it's generally a best practice to <em>only</em> store source files and not generated files. The easiest way to ignore files in <code>git</code> project commits is to setup a base file named <code>.gitignore</code> and list one ignored files/pattern per line. In VSCode, right click outside of the public folder in the File Explorer pane and select &quot;New File&quot;. Name it <code>.gitignore</code> (you should be able to collapse the public directory and still see the <code>.gitignore</code> file).</p>
+<p>Add the following lines to <code>.gitignore</code>:</p>
+<pre><code class="hljs">node_modules/**
+dist/**
+<span class="hljs-string">.cache/</span>**
+</code></pre>
+<p>Save your file. It will be included in the next git commit.</p>
+<h2><a class="anchor" aria-hidden="true" id="initialize-your-project-s-packagejson-file-with-npm-init"></a><a href="#initialize-your-project-s-packagejson-file-with-npm-init" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Initialize your project's <code>package.json</code> file with <code>npm init</code></h2>
+<p>In the terminal, be sure you are in your travel notes directory (try <code>pwd</code> to print your working directory). Then run <code>npm init</code>. You can press enter for each of the prompts to accept default settings. Doing this will generate a <code>package.json</code> file in the root directory of your project. This file is important to <code>node.js</code> as you'll soon see. Think of it as a description of your project, its dependent libraries, and any special commands your project needs.</p>
+<h2><a class="anchor" aria-hidden="true" id="install-parcel-development-libraries"></a><a href="#install-parcel-development-libraries" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Install <code>parcel</code> development libraries</h2>
+<p>We're using <code>parcel-bundler</code> to serve as our project build tool. Add it to your project's development dependencies (meaning, it's only needed when you are developing your project it is not needed in production) with the following command:</p>
+<pre><code class="hljs">$ npm <span class="hljs-keyword">install </span>--save-dev parcel-<span class="hljs-keyword">bundler
+</span></code></pre>
+<p>Now, if you look in <code>package.json</code>, you'll notice <code>parcel-bundler</code> was added to the <code>devDependencies</code> part of the file along with its current version. You'll also notice this looks like JavaScript object and array literals! This is JSON, or JavaScript Object Notation, a common format for expressing and exchanging information between programs made popular by JavaScript's rise.</p>
+<h2><a class="anchor" aria-hidden="true" id="test-a-project-build"></a><a href="#test-a-project-build" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Test a project build</h2>
+<p>You should now be able to build your project using <code>parcel</code> and the following command:</p>
+<pre><code class="hljs">$ parcel <span class="hljs-keyword">build </span>src<span class="hljs-comment">/*.html
+</span></code></pre>
+<p>If there are errors in this command you will need to resolve them before continuing. When it parses and builds HTML it will check for correct closing tags, and so on, to be sure you have valid HTML.</p>
+<p>Once you can run the above command without errors, you should now see a <code>dist/</code> directory that has your project's compiled assets.</p>
+<h2><a class="anchor" aria-hidden="true" id="adding-npm-commands"></a><a href="#adding-npm-commands" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Adding <code>npm</code> commands</h2>
+<p>In the <code>package.json</code> file, you will see a top-level property named <code>&quot;scripts&quot;</code>, whose value is another object where keys are the name of a script and values are the actual command-line operation being executed when that script is run. By default there is a test script with an error. Let's remove the <code>&quot;test&quot;</code> script add a few useful scripts when working with a <code>parcel</code> project:</p>
+<pre><code class="hljs"><span class="hljs-string">"scripts"</span>: {
+    <span class="hljs-string">"start"</span>: <span class="hljs-string">"parcel src/*.html --open"</span>,
+    <span class="hljs-string">"build"</span>: <span class="hljs-string">"parcel build src/*.html"</span>
+},
+</code></pre>
+<p>Now, after adding these scripts to your <code>package.json</code> file, you can run the following commands:</p>
+<pre><code class="hljs">$ npm <span class="hljs-keyword">run</span><span class="bash"> build
+</span></code></pre>
+<p>The <code>build</code> script builds the project in the <code>dist</code> directory. Soon we'll configure Netlify to run this command every time you push your project.</p>
+<pre><code class="hljs">$ npm <span class="hljs-keyword">run</span><span class="bash"> start
+</span></code></pre>
+<p>The start script is configured to run <code>parcel src/*.html --open</code> which starts <code>parcel</code> and targets each of your <code>html</code> pages. To view your <code>index.html</code> file, you'll need to specifically open <code>localhost:[port]/index.html</code>.</p>
+<p>To quit your server, back in the terminal, press Ctrl+C.</p>
+<h2><a class="anchor" aria-hidden="true" id="netlify-configuration"></a><a href="#netlify-configuration" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Netlify Configuration</h2>
+<p>Currently your Netlify site serves assets directly out of your projects (former) public directory. Now, when Netlify deploys your site we first want it to run <code>npm run build</code>, then we want it to serve your site out of the <code>dist</code> directory. We can make these configuration changes in our project by adding a configuration file named <code>netlify.toml</code>. Add a new file to the base directory of your project named <code>netlify.toml</code> and add the following configuration rules:</p>
+<pre><code class="hljs">[build]
+    <span class="hljs-comment"># Root of package.json, etc</span>
+    <span class="hljs-attr">base</span> = <span class="hljs-string">"./"</span>
+    <span class="hljs-comment"># The command to run production build</span>
+    <span class="hljs-attr">command</span> = <span class="hljs-string">"npm run build"</span>
+    <span class="hljs-comment"># Publish directory</span>
+    <span class="hljs-attr">publish</span> = <span class="hljs-string">"dist/
+</span></code></pre>
+<p>Once you've added this, go ahead and make a commit and push to test your deploy settings on Netlify.</p>
+<pre><code class="hljs">$ git add .
+$ git commit -m 'Add parcel <span class="hljs-keyword">build</span> pipeline <span class="hljs-keyword">and</span> <span class="hljs-keyword">update</span> netlify <span class="hljs-keyword">to</span> <span class="hljs-keyword">use</span> <span class="hljs-keyword">build</span>.<span class="hljs-string">'
+$ git push origin master
+</span></code></pre>
+<p>If you open Netlify, go to your project, you should see your latest commit show up in the production deploys list either in the process of building, built with success or an an error. If you click on the deploy and scroll down you'll see the log of steps the build took. Somewhere in there you should see <code>parcel-bundler</code> being installed followed by <code>npm run build</code> later on. This is a log of the steps Netlify is taking to prepare your commit for a production deploy by building it with <code>parcel</code>. If it does not succeed, check over the steps above and see if you can diagnose the reason why based on error messages.</p>
+<p>If you visit your blog site it should still work. If you inspect your HTML using Chrome's web inspector tool, though, you'll see that the link tags link to compiled and minified CSS files for production. Parcel built these files, copied, and updated your HTML into the <code>dist</code> directory which Netlify is now using. If you open the CSS file you'll see it's &quot;minified&quot; with extraneous whitespace removed to reduce its filesize.</p>
+<p>If you're this far, great! That means we've got Netlify configured to build our process and Parcel is successfully building it. The last thing we'll do is ensure we can start using TypeScript with our blog project.</p>
+<h2><a class="anchor" aria-hidden="true" id="adding-typescript"></a><a href="#adding-typescript" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Adding TypeScript</h2>
+<p>As we add interactive features to our website we need to use JavaScript or another language that compiles to JavaScript. We'll choose TypeScript, which is the latter. To add it to our project, let's add it:</p>
+<pre><code class="hljs">$ npm install --<span class="hljs-built_in">save</span>-<span class="hljs-built_in">dev</span> typescript
+</code></pre>
+<p>This installs TypeScript as a development dependency.</p>
+<p>Then, create a file named <code>main.ts</code> in your <code>src</code> folder. Establish a <code>main</code> function such as:</p>
+<pre><code class="hljs css language-typescript"><span class="hljs-keyword">export</span> <span class="hljs-keyword">let</span> main = <span class="hljs-function"><span class="hljs-params">()</span> =&gt;</span> {
+    <span class="hljs-keyword">let</span> message: <span class="hljs-built_in">string</span> = <span class="hljs-string">"Hello world, from TypeScript :)"</span>;
+    <span class="hljs-built_in">console</span>.log(message);
+};
+
+<span class="hljs-built_in">window</span>.addEventListener(<span class="hljs-string">"load"</span>, main);
+</code></pre>
+<p>Next, from at least your <code>index.html</code> file, add a <code>script</code> tag to include your <code>main.ts</code> file before the close of its <code>body</code> tag:</p>
+<pre><code class="hljs css language-html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"./main.ts"</span>&gt;</span><span class="undefined"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</code></pre>
+<p>Finally, from the command line start your development server again: <code>npm run start</code></p>
+<p>You should be able to browse to the <code>.html</code> page(s) you added the <code>script</code> tag(s) to and see that your TypeScript is running (compiled as JavaScript) based on the message logged. If you do not see a logged message you will need to carefully check the steps above again.</p>
+<p>Once you see your message logged, stop your development server in console with Ctrl+C.</p>
+<p>Now, let's test our build process on netlify by making another commit, pushing, and checking the deploy log:</p>
+<pre><code class="hljs"><span class="hljs-variable">$ </span>git add .
+<span class="hljs-variable">$ </span>git commit -m <span class="hljs-string">'Add TypeScript support to project.'</span>
+<span class="hljs-variable">$ </span>git push origin master
+</code></pre>
+<p>Shortly after you should see a deploy on Netlify show up. If you follow through your deploy log for this commit you'll see in the list of built assets after <code>npm run build</code> that the <code>main.&lt;hash&gt;.js</code> file was compiled from your TypeScript code.</p>
+<p>If you now view your site's source code through the web inspector tool and find the <code>script</code> tag just before <code>body</code>'s closing tag, you should see a reference to the compiled <code>js</code> file. If you open it, you'll see it's minified JavaScript and buried in the mess (if you Control+F) is your 'console.log' statement compiled to JS. (You may notice that the optimizer even removed your local variable!)</p>
+<h1><a class="anchor" aria-hidden="true" id="summary"></a><a href="#summary" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Summary</h1>
+<p>Once you've made it this far, congratulations! You've established a build pipeline for a modern TypeScript project using Parcel! In any project build pipeline there are a lot of moving parts. Parcel actually simplifies our lives quite a bit compared to more configurable tools like WebPack which achieve similar results <em>through even more configuration and steps</em>.</p>
+<p>The upside to this is our code assets, including HTML if you view your page's source code, are all minified with whitespace removed. Additionally, we are able to program in TypeScript and have it compile on deploy to minified JavaScript.</p>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/docs/vm-faq"><span class="arrow-prev">← </span><span>Virtual Machine - FAQ</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#gitignore-ignore-generated-files">.gitignore - Ignore generated files</a></li><li><a href="#initialize-your-project-s-packagejson-file-with-npm-init">Initialize your project's <code>package.json</code> file with <code>npm init</code></a></li><li><a href="#install-parcel-development-libraries">Install <code>parcel</code> development libraries</a></li><li><a href="#test-a-project-build">Test a project build</a></li><li><a href="#adding-npm-commands">Adding <code>npm</code> commands</a></li><li><a href="#netlify-configuration">Netlify Configuration</a></li><li><a href="#adding-typescript">Adding TypeScript</a></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/" class="nav-home"><img src="/img/old-well.svg" alt="Copenhagen 426 - Summer 2019" width="66" height="58"/></a><div><h5>Docs</h5><a href="/docs/assignments.html">Assignments</a><a href="/docs/lectures.html">Lectures</a><a href="/docs/resources.html">Resources</a></div><div><h5>Tools</h5><a href="https://gradescope.com" target="_blank" rel="noreferrer noopener">Gradescope</a><a href="https://copenhagen426.slack.com" target="_blank" rel="noreferrer noopener">Slack</a></div><div><h5>More</h5><a target="_blank" href="https://github.com/cph426-2019">GitHub</a></div></section><section class="copyright">Copyright © 2019 Kris Jordan</section></footer></div></body></html>
