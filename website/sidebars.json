@@ -3,7 +3,8 @@
     "Resources": [
       "resources",
       "syllabus",
-      "vm-faq"
+      "vm-faq",
+      "netlify-parcel"
     ]
   }
 }
