@@ -32,4 +32,4 @@ sidebar_label: Assignments
 [HTML Forms]: https://internetingishard.com/html-and-css/forms/
 [React Events]: https://reactjs.org/docs/handling-events.html
 [React Technical Details]: https://overreacted.io/react-as-a-ui-runtime/
-[Server-side Rendering]: /docs/node-express-server
+[Server-side Rendering]: /docs/express-server

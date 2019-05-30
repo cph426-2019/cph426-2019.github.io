@@ -9,6 +9,10 @@
         "title": "Assignments",
         "sidebar_label": "Assignments"
       },
+      "express-server": {
+        "title": "Server-side Setup Lab with Node.js and Express",
+        "sidebar_label": "Server-side Setup Lab"
+      },
       "course-materials": {
         "title": "Course Materials & GRQs",
         "sidebar_label": "Course Materials & GRQs"
@@ -19,9 +23,6 @@
       "netlify-parcel": {
         "title": "Netlify Parcel Build",
         "sidebar_label": "Netlify Parcel Build"
-      },
-      "node-setup-lab": {
-        "title": "Server-side Setup Lab with Node.js and Express"
       },
       "predeparture-assignment": {
         "title": "Predeparture Assignment",

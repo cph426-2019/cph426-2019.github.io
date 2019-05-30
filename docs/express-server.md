@@ -1,5 +1,5 @@
 ---
-id: node-setup-lab 
+id: express-server 
 title: Server-side Setup Lab with Node.js and Express
 sidebar_label: Server-side Setup Lab
 ---
