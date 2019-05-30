@@ -6,6 +6,7 @@ sidebar_label: Assignments
 
 | Due             |Time    | Type         | Name                                                                                                    |
 |-----------------|--------|--------------|---------------------------------------------------------------------------------------------------------|
+| Thursday 5/30  |11:59pm | PS      | [Server-side Rendering] |
 | Wednesday 5/29  |11:59pm | Reading      | [HTML Forms], [React Events], [React Technical Details]                                                 |
 | Tuesday 5/28    |11:59pm | PS           | [React Photo Gallery]                                                                                   |
 | Monday 5/27     |11:59pm | Reading      | [Callbacks], [Promises], [Promise Chaining], [Async/Await]                                              |
@@ -31,3 +32,4 @@ sidebar_label: Assignments
 [HTML Forms]: https://internetingishard.com/html-and-css/forms/
 [React Events]: https://reactjs.org/docs/handling-events.html
 [React Technical Details]: https://overreacted.io/react-as-a-ui-runtime/
+[Server-side Rendering]: /docs/node-express-server
