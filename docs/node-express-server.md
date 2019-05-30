@@ -1,6 +1,7 @@
 ---
 id: node-setup-lab 
 title: Server-side Setup Lab with Node.js and Express
+sidebar_label: Server-side Setup Lab
 ---
 
 ## Purpose
