@@ -24,6 +24,10 @@
         "title": "Predeparture Assignment",
         "sidebar_label": "COMP426 - Predeparture Assignment"
       },
+      "react-gallery-lab": {
+        "title": "React Photo Gallery Lab",
+        "sidebar_label": "React Photo Gallery Lab"
+      },
       "resources": {
         "title": "Resources",
         "sidebar_label": "Resources"

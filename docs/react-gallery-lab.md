@@ -6,7 +6,7 @@ sidebar_label: React Photo Gallery Lab
 
 ## Purpose
 
-The purpose of this lab is to gain experience integrating React components with a website and extending those components to have additional functionality. You will incorporate the React Gallery demo from lecture into your personal site and extend it to have photo captions and a visual affordance of the currently selected thumbnail.
+The purpose of this lab is to gain experience integrating React components with a website and extending those components to have additional functionality. You will incorporate the React Gallery demo from lecture into your personal site and extend it to have photo captions and a visual affordance of the currently selected thumbnail. Demo: http://localhost:57565/gallery.html
 
 ## Getting Started
 

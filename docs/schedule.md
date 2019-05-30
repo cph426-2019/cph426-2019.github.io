@@ -36,13 +36,18 @@ sidebar_label: Schedule
 
 | Date            | Name                                                                                 |
 |-----------------|--------------------------------------------------------------------------------------|
-| Monday 5/27     | Class 10a-11:30a, 12:30p-2p                                                          |
-| Tuesday 5/28    | Class 10a-11:30a, 12:30p-2p                                                          |
-| Wednesday 5/29  | 9:30a-1p - Danish Design Lecture, Studio Visits, [Design Museum] Tour<br>tbd - Class |
-| Thursday 5/30   | Class 10a-11:30a, 12:30p-2p - Classroom TBD                                          |
-| Friday 5/31     | Early Morning Class 9-10:30a - Optional Train to [Malmö, Sweden]                     |
-| Saturday 6/1    | Free Day - Optional Excursion to find [Trolls] or head to [Dyrehave]/[Dyrehavsbakken]|
-| Sunday 6/2      | Free Day - Optional Excursion to [Refshaleoen]                                       |
+| Monday 5/27     | [Prototypes, Function bind, call, apply, MVVC Pattern] 10a-11:30a, 12:30p-2p         |
+| Tuesday 5/28    | [`this`, Arrow functions, Intro to React] 10a-11:30a, 12:30p-2p                      |
+| Wednesday 5/29  | 9:30a-1p - Danish Design Lecture, [Design Museum] Tour<br>2-3:30p - [HTTP Protocol]  |
+| Thursday 5/30   | [Server-side Programming in Node.js] 10a-11:30a, 12:30p-2p                           |
+| Friday 5/31     | Class 10-11:30a, 12:30-2p                                                            |
+| Saturday 6/1    | Free Day - Optional Excursion to Optional Train to [Malmö, Sweden]/[Dyrehavsbakken]  |
+| Sunday 6/2      | Free Day - TBD: [Refshaleoen], [Trolls], or [Dyrehave]                               |
+
+[Prototypes, Function bind, call, apply, MVVC Pattern]: /docs/lec4-prototypes-bind-call-apply.pdf
+[`this`, Arrow functions, Intro to React]: /docs/lec5-this-arrow-functions-react.pdf
+[HTTP Protocol]: /docs/lec6-http-protocol.pdf
+[Server-side Programming in Node.js]: /docs/lec7-server-side-node.pdf
 
 [Malmö, Sweden]: https://en.wikipedia.org/wiki/Malm%C3%B6
 [Design Museum]: https://designmuseum.dk/en/
