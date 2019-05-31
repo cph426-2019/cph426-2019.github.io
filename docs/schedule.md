@@ -40,7 +40,7 @@ sidebar_label: Schedule
 | Tuesday 5/28    | [`this`, Arrow functions, Intro to React] 10a-11:30a, 12:30p-2p                      |
 | Wednesday 5/29  | 9:30a-1p - Danish Design Lecture, [Design Museum] Tour<br>2-3:30p - [HTTP Protocol]  |
 | Thursday 5/30   | [Server-side Programming in Node.js] 10a-11:30a, 12:30p-2p                           |
-| Friday 5/31     | Class 10-11:30a, 12:30-2p                                                            |
+| Friday 5/31     | [Cloud Server Setup], Web Form Processing GET vs POST 10-11:30a, 1:00-2:30p          |
 | Saturday 6/1    | Free Day - Optional Excursion to Optional Train to [Malmö, Sweden]/[Dyrehavsbakken]  |
 | Sunday 6/2      | Free Day - TBD: [Refshaleoen], [Trolls], or [Dyrehave]                               |
 
@@ -48,6 +48,7 @@ sidebar_label: Schedule
 [`this`, Arrow functions, Intro to React]: /docs/lec5-this-arrow-functions-react.pdf
 [HTTP Protocol]: /docs/lec6-http-protocol.pdf
 [Server-side Programming in Node.js]: /docs/lec7-server-side-node.pdf
+[Cloud Server Setup]: /docs/lec8-aws-server-setup.pdf
 
 [Malmö, Sweden]: https://en.wikipedia.org/wiki/Malm%C3%B6
 [Design Museum]: https://designmuseum.dk/en/
