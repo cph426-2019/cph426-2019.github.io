@@ -24,6 +24,9 @@
         "title": "Netlify Parcel Build",
         "sidebar_label": "Netlify Parcel Build"
       },
+      "post-table": {
+        "title": "post-table"
+      },
       "predeparture-assignment": {
         "title": "Predeparture Assignment",
         "sidebar_label": "COMP426 - Predeparture Assignment"

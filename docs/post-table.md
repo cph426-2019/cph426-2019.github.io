@@ -1,3 +1,8 @@
+---
+id: post-table
+title: Blog Post Table Assignment
+sidebar_label: Blog Post Table Assignment
+---
 In this problem set, you will establish a table for your blog's posts, populate your blog content via MySQL Workbench, and then generate your blog's content from your database.
 
 ## Backing up your Blog Content

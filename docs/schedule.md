@@ -61,9 +61,11 @@ sidebar_label: Schedule
 
 | Date            | Name                                                                             |
 |-----------------|----------------------------------------------------------------------------------|
-| Monday 6/3      | Class                                                                            |
+| Monday 6/3      | 10-11:30a, 1-2:30p [Data Stores, MySQL Setup, Integration, and Querying]         |
 | Tuesday 6/4     | Class, Danish Family Dinner 6p                                                   |
 | Wednesday 6/5   | Class                                                                            |
 | Thursday 6/6    | Class                                                                            |
 | Friday 6/7      | Class, Final Project Presentations, Final Exam - Group Farewell Dinner           |
 | Saturday 6/8    | Departure                                                                        |
+
+[Data Stores, MySQL Setup, Integration, and Querying]: /docs/lec9-data-store.pdf
