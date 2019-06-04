@@ -6,8 +6,9 @@ sidebar_label: Assignments
 
 | Due             |Time    | Type         | Name                                                                                                    |
 |-----------------|--------|--------------|---------------------------------------------------------------------------------------------------------|
-| Monday 6/3  |11:59pm | PS      | [Blog Post Database Table and View] |
-| Thursday 5/30  |11:59pm | PS      | [Server-side Rendering] |
+| Wednesday 6/5   |11:59pm | PS           | [Blog Post Admin Create/Retrieve/Update/Delete User Interface]                                          |
+| Monday 6/3      |11:59pm | PS           | [Blog Post Database Table and View]                                                                     |
+| Thursday 5/30   |11:59pm | PS           | [Server-side Rendering]                                                                                 |
 | Wednesday 5/29  |11:59pm | Reading      | [HTML Forms], [React Events], [React Technical Details]                                                 |
 | Tuesday 5/28    |11:59pm | PS           | [React Photo Gallery]                                                                                   |
 | Monday 5/27     |11:59pm | Reading      | [Callbacks], [Promises], [Promise Chaining], [Async/Await]                                              |

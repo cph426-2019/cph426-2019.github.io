@@ -62,7 +62,7 @@ sidebar_label: Schedule
 | Date            | Name                                                                             |
 |-----------------|----------------------------------------------------------------------------------|
 | Monday 6/3      | 10-11:30a, 1-2:30p [Data Stores, MySQL Setup, Integration, and Querying]         |
-| Tuesday 6/4     | Class, Danish Family Dinner 6p                                                   |
+| Tuesday 6/4     | 10a-12:30p Create, Retrieve, Update, Delete from an Admin Interface <br>6p Danish Family Dinner                                      |
 | Wednesday 6/5   | Class                                                                            |
 | Thursday 6/6    | Class                                                                            |
 | Friday 6/7      | Class, Final Project Presentations, Final Exam - Group Farewell Dinner           |
