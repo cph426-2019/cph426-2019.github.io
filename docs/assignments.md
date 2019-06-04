@@ -36,3 +36,4 @@ sidebar_label: Assignments
 [React Technical Details]: https://overreacted.io/react-as-a-ui-runtime/
 [Server-side Rendering]: /docs/express-server
 [Blog Post Database Table and View]: /docs/post-table
+[Blog Post Admin Create/Retrieve/Update/Delete User Interface]: /docs/post-cruds

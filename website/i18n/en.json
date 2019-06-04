@@ -24,6 +24,10 @@
         "title": "Netlify Parcel Build",
         "sidebar_label": "Netlify Parcel Build"
       },
+      "post-cruds": {
+        "title": "Blog Post CRUD Operations",
+        "sidebar_label": "Blog Post CRUD Operations"
+      },
       "post-table": {
         "title": "Blog Post Table Assignment",
         "sidebar_label": "Blog Post Table Assignment"
