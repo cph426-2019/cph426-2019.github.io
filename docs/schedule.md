@@ -62,10 +62,11 @@ sidebar_label: Schedule
 | Date            | Name                                                                             |
 |-----------------|----------------------------------------------------------------------------------|
 | Monday 6/3      | 10-11:30a, 1-2:30p [Data Stores, MySQL Setup, Integration, and Querying]         |
-| Tuesday 6/4     | 10a-12:30p Create, Retrieve, Update, Delete from an Admin Interface <br>6p Danish Family Dinner                                      |
-| Wednesday 6/5   | Class                                                                            |
+| Tuesday 6/4     | 10a-12:30p Create, Retrieve, Update, Delete from an Admin Interface (Code Along)<br>6p Danish Family Dinner|
+| Wednesday 6/5   | 10a-11:30a [Cookies and Single-user Authentication]                              |
 | Thursday 6/6    | Class                                                                            |
 | Friday 6/7      | Class, Final Project Presentations, Final Exam - Group Farewell Dinner           |
 | Saturday 6/8    | Departure                                                                        |
 
+[Cookies and Single-user Authentication]: /docs/lec11-cookies-authentication
 [Data Stores, MySQL Setup, Integration, and Querying]: /docs/lec9-data-store.pdf
