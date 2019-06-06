@@ -65,7 +65,7 @@ sidebar_label: Schedule
 | Tuesday 6/4     | 10a-12:30p Create, Retrieve, Update, Delete from an Admin Interface (Interactive Coding Lesson)<br>6p Danish Family Dinner|
 | Wednesday 6/5   | 10a-11:30a [Cookies and Single-user Authentication]                              |
 | Thursday 6/6    | 10a-11:30a, 12:30p-2p [Review], 2p-2:30p [Topics to Learn Next]                  |
-| Friday 6/7      | 10a-1p Final Exam, 1:30p-2p Final Project Presentations<br>6:30p Group Farewell Dinner at Pate Pate |
+| Friday 6/7      | 9:30a-12:30p Final Exam, 1:30p-2p Final Project Presentations<br>6:30p Group Farewell Dinner at Pate Pate |
 | Saturday 6/8    | Departure Day                                                                    |
 
 [Cookies and Single-user Authentication]: /docs/lec11-cookies-authentication.pdf
