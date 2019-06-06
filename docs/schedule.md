@@ -62,7 +62,7 @@ sidebar_label: Schedule
 | Date            | Name                                                                             |
 |-----------------|----------------------------------------------------------------------------------|
 | Monday 6/3      | 10-11:30a, 1-2:30p [Data Stores, MySQL Setup, Integration, and Querying]         |
-| Tuesday 6/4     | 10a-12:30p Create, Retrieve, Update, Delete from an Admin Interface (Code Along)<br>6p Danish Family Dinner|
+| Tuesday 6/4     | 10a-12:30p Create, Retrieve, Update, Delete from an Admin Interface (Interactive Coding Lesson)<br>6p Danish Family Dinner|
 | Wednesday 6/5   | 10a-11:30a [Cookies and Single-user Authentication]                              |
 | Thursday 6/6    | 10a-11:30a, 12:30p-2p [Review], 2p-2:30p [Topics to Learn Next]                  |
 | Friday 6/7      | 10a-1p Final Exam, 1:30p-2p Final Project Presentations<br>6:30p Group Farewell Dinner at Pate Pate |
