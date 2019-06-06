@@ -68,5 +68,5 @@ sidebar_label: Schedule
 | Friday 6/7      | Class, Final Project Presentations, Final Exam - Group Farewell Dinner           |
 | Saturday 6/8    | Departure                                                                        |
 
-[Cookies and Single-user Authentication]: /docs/lec11-cookies-authentication
+[Cookies and Single-user Authentication]: /docs/lec11-cookies-authentication.pdf
 [Data Stores, MySQL Setup, Integration, and Querying]: /docs/lec9-data-store.pdf
